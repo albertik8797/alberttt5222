@@ -1,0 +1,15 @@
+/Users/albertselev/Projects/223/223/bin/Debug/net6.0/223
+/Users/albertselev/Projects/223/223/bin/Debug/net6.0/223.deps.json
+/Users/albertselev/Projects/223/223/bin/Debug/net6.0/223.runtimeconfig.json
+/Users/albertselev/Projects/223/223/bin/Debug/net6.0/223.dll
+/Users/albertselev/Projects/223/223/bin/Debug/net6.0/223.pdb
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.AssemblyInfo.cs
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.csproj.CoreCompileInputs.cache
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.dll
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/refint/223.dll
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.pdb
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/223.genruntimeconfig.cache
+/Users/albertselev/Projects/223/223/obj/Debug/net6.0/ref/223.dll
